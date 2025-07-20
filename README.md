@@ -5,7 +5,6 @@ This is my solution to the [Results Summary Component](https://www.frontendmento
 ## 🔗 Links
 
 - [Live Site](https://yassine-del.github.io/results-summary-component-main/)
-- [Solution on GitHub](https://github.com/yassine-del/results-summary-component)
 
 ## 🛠️ Built With
 
